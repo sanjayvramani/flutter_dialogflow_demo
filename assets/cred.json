@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sanjay-dialogflow-gnaj",
+  "private_key_id": "2ebfb70a1746c824ca5b5a74828827aeafe45afa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcHVL6nF/mFyxA\nLOrMHoiI1+437B1zEmSsaeFUftqZkZogyw+BM6PmnojgqapDOa4M0V4cIeH4TqzF\nlBcJwjlFtJuqubS0Yo1WX2VN0Q0JDtdY98yv01txcqYn9XZxXjQvCsXMtiUiRchq\ntgFrRQOUboPDf+KZggDDJkLNTq7za5Gi0O17vtbXwu4l04RL/ljclNdWNR+zPv/w\ndhtyWxnLZJUX/y7vnjnhZ1ZimJQSmC2LDhr/1OtlxtXSOSbygGsplGu8DIN0Z2wG\no3koiNtF11NaZ6Yw16viOG2EWN3To+60mM4ivWxqJiZkGy3HlD1qM3tPmu+fwmon\nq04UJwPdAgMBAAECggEATCXllsZ15IbDF96Q/NWb5Zvl37M1Pi7nmk3fElb6C9RA\nqORDgNMOjGwh+evoV/gnlKr/S5ufXH4LuigdAK6TPxP0plcE9MPpiwrnIAjrYdKy\nafwdBFqFDRZOQ8lwZ6X6sEOB7fOes1P0iVCT6p30PA+YB+E2R4hpFMdx6DEMF0FK\n0AoCVNefA7mQIe6EpzeWOpCtc+CSyvpwQw7Cpgr4L7iuvIHomXXlKOaGCsJBHKPE\n8XbDH8Ts/CPu96XiCHfN+J39qQk/3E5TEmEzf8ipYj7P70fUIiCYZihqezwkPyj8\nep6dAXfXr3K4gXwjFOi2OUnt+90cJzQylJeJRgj5JQKBgQDP7oru1k5pkAYyjA/c\nsgRo6lXsCY+sNYkCgy2PQI0N3jYAPCZ75mKfVZo4FQDxXXb0UJnygJGM0ekg4RcW\nxVDo4qjhfRXxSEIyjSkOKKVWm/xVqXx9cqEhBp50d2SPx9tTHYIywAzHIxjBFitL\nA+M3k9XvmkptFYw6WSEqnV6mpwKBgQDANDkIzUnkbKBsvUaTuBXf4We4mDxs63x7\nEIHt3WagSC5MKpIMtaeZHT/w9URRlbC4B3vJDOmv2lbg/6tTyZSFhFoLM+V/inDw\nh5g1rDWLo7INI2YGy96LH8LfuSiu2v7Vpzll2YKANHpZM8r+xuV96ca1P64wvbOz\nsEBeFn9V2wKBgQCMKK9d7vdMENkcmWzXxudSESN5x7ggzLVeDC5ZsZljD7Y20lTe\nj51K6djalM3d5LKaXPpojGGQGq6aix+VKcwwLxjHZhm0WpDEooJaGOvaRasB0w0n\nQm16ZYvJ1fDjOkSM8gchTnNOiEnXXaoxFp3CiNRcfhRNE4lCi3Hf19RFYQKBgAGG\naI1xU4zEb+Fs/wpdA49rMm98hb43gB1Z3C4O+6l56SQhklcXeeT1HnTC/W/ISEat\niIXn3FLQ4K+YV7uqdcs5aZ19I+0HJC5EZSjH3QTmn5sLFNwo8fMYpWsxBOmeQzde\nxE3Sk/6AbBgZGRs8aMW+/RyjDLbGSo66b0hP1WLRAoGBAJp4ySepLy52OciE/q52\nZHCIqHRS20IwSAQFdMN+LiVkXzjy44e/7KB0CYJ5srVVTVJh0Mc5agFGD3fvjK2j\n7UvwrnyVhWIp0lXXZqKXLOPZn50M10Vr4ExLaQ3AThqtm9MGsyc5ZKChBz8UOc0u\n7lBguGNbCn4mx1y1nlugo2RZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "flutter-dialogflow@sanjay-dialogflow-gnaj.iam.gserviceaccount.com",
+  "client_id": "100504015878129254542",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/flutter-dialogflow%40sanjay-dialogflow-gnaj.iam.gserviceaccount.com"
+}
